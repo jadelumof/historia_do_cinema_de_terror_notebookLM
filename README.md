@@ -1,6 +1,8 @@
 # historia_do_cinema_de_terror_notebookLM
 ԅ( ⊙ ︿ ⊙ ԅ)
+
 Uma viagem interessante ao mundo do cinema de Terror
+
 https://notebook.google.com/notebook/ec842812-1484-4c8e-a9b1-f6e53b669515
 
 
