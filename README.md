@@ -52,6 +52,16 @@ E hoje em dia, o terror também cumpre uma função psicológica e social. Psico
 - Terror psicológico: subgênero que provoca medo pela tensão, incerteza e atmosfera, em vez de ameaças físicas explícitas, ponto de sobreposição entre terror e suspense.
 
  3)Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+ 
+ "Explique brevemente a origem de [tema/subgênero] e organize em uma cronologia com os principais marcos."
+"Quais foram os pioneiros de [subgênero/movimento] e o que cada um contribuiu de diferente?"
+"O que diferencia [conceito A] de [conceito B] dentro do cinema de terror?"
+"Compare [filme A] e [filme B] em termos de [aspecto: narrativa, impacto cultural, técnica]."
+"Como você tem certeza dessa informação? Existe a possibilidade de haver exceções que não foram encontradas na pesquisa?"
+"Essa afirmação vem de qual das minhas fontes? Cite a referência específica."
+"Responda apenas com base nas fontes que anexei; se a informação não estiver lá, diga que não sabe."
+"Como [tema/filme/subgênero] se conecta com teorias da psicologia e sociologia?"
+"Que contexto histórico ou social pode ter influenciado o surgimento de [movimento/subgênero]?"
 
 
-👻 (っಠ‿ಠ)っ --- 🧠💀👻 ----
+👻 (っಠ‿ಠ)っ -b-o-o-o-o-o 🧠💀👻 ----
