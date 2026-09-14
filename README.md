@@ -28,6 +28,7 @@ Obs.: a resposta não foi uma alegação de certeza absoluta nem inventou uma re
 Obs.: Foi uma resposta muito bem estruturada, baseada nas fontes que coloquei no NotebookLM. O que mais me chamou atenção foi perceber, num momento em que quase julguei errada a ferramenta, que se tratava de uma leitura interpretativa feita por pesquisadores: baseada em lógica e evidência contextual, mas que outro estudioso poderia relativizar ou discordar. Isso não é uma falha de verificação da IA, e sim um processo comum no mundo da pesquisa acadêmica, já que a ferramenta não apresentou essa interpretação como um fato absoluto disfarçado de certeza. 
 
 - Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
+
  1)Resumos estruturados do assunto;
  
 O cinema de terror começou com truques visuais simples lá no final do século XIX e foi virando, aos poucos, uma linguagem bem mais complexa, capaz de mostrar tanto os nossos medos pessoais quanto as crises que a sociedade estava vivendo em cada época.
