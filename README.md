@@ -5,9 +5,6 @@ Uma viagem interessante ao mundo do cinema de Terror
 
 https://notebook.google.com/notebook/ec842812-1484-4c8e-a9b1-f6e53b669515
 
-
-
-
 - Contexto e Objetivos: quis criar um espaço dedicado a todos os fãs e estudiosos do cinema de terror. É um assunto que sempre me fascinou, e imagino que fascina muita gente também, por isso decidi montar um caderno que explique esse universo desde o início: como surgiu o cinema de horror, quem foram seus pioneiros e como o gênero evoluiu ao longo do tempo.
 Meu objetivo é reunir, em um só lugar, curiosidades sobre os filmes e atores que marcaram esse gênero, os principais mitos e lendas que cercam o cinema de terror, e estudos que relacionam o gosto pelo horror com aspectos da nossa sociedade e psicologia. Fiz questão também de dedicar um espaço ao cinema de horror brasileiro, destacando sua trajetória e suas particularidades dentro do gênero. Além disso, quero montar uma lista de recomendações essenciais para quem ama esse tema e está em busca de novos filmes para assistir.
 
